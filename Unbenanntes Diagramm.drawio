@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Seite-1" id="ysRUnP0kA-CdPG0wvfAk">
-    <mxGraphModel dx="2264" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3091" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-26" value="1.1.1&amp;nbsp;&lt;div&gt;Use-Cases&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="-843" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jVUdxewB6u90ZWKmvP3K-28" target="jVUdxewB6u90ZWKmvP3K-37">
           <mxGeometry relative="1" as="geometry" />
@@ -86,29 +86,35 @@
         <mxCell id="jVUdxewB6u90ZWKmvP3K-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jVUdxewB6u90ZWKmvP3K-28" target="jVUdxewB6u90ZWKmvP3K-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jVUdxewB6u90ZWKmvP3K-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jVUdxewB6u90ZWKmvP3K-28" target="jVUdxewB6u90ZWKmvP3K-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-28" value="1.1.2&lt;div&gt;technische Anfoderungen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="400" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-30" value="1.1.1.1&lt;div&gt;Parkplatz buchen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="520" width="100" height="40" as="geometry" />
+          <mxGeometry x="-910" y="520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jVUdxewB6u90ZWKmvP3K-26" target="jVUdxewB6u90ZWKmvP3K-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-34" value="1.1.1.2&lt;div&gt;Wall-Box buchen&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="520" width="110" height="40" as="geometry" />
+          <mxGeometry x="-763" y="520" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-37" value="1.1.2.1&lt;div&gt;mobile first&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="520" width="110" height="40" as="geometry" />
+          <mxGeometry x="-630" y="520" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-40" value="1.1.2.2&lt;div&gt;security by design&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="520" width="110" height="40" as="geometry" />
+          <mxGeometry x="-510" y="520" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-42" value="1.2.1.1&lt;div&gt;Laravel-Framework&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="520" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-44" value="1.2.1.2&lt;div&gt;SAML Login&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jVUdxewB6u90ZWKmvP3K-46" value="1.1.2.3&lt;div&gt;DSVGO/GDPR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

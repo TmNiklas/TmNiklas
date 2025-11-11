@@ -68,6 +68,9 @@
         <mxCell id="jVUdxewB6u90ZWKmvP3K-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jVUdxewB6u90ZWKmvP3K-24" target="jVUdxewB6u90ZWKmvP3K-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jVUdxewB6u90ZWKmvP3K-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jVUdxewB6u90ZWKmvP3K-24" target="jVUdxewB6u90ZWKmvP3K-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-24" value="1.2.1 Systemarchitektur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="400" width="110" height="40" as="geometry" />
         </mxCell>
@@ -103,6 +106,9 @@
         </mxCell>
         <mxCell id="jVUdxewB6u90ZWKmvP3K-42" value="1.2.1.1&lt;div&gt;Laravel-Framework&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jVUdxewB6u90ZWKmvP3K-44" value="1.2.1.2&lt;div&gt;SAML Login&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="520" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
